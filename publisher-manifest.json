@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8e7d7ea9ab5d02a40e6ac32d",
+  "owner": "mbhpfdkpa",
+  "repo": "page-6588a7a8ccce2485eda8ae05",
+  "title": "吃瓜云(ChiguaYun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6588a7a8ccce2485eda8ae05",
+      "a": "吃瓜云(ChiguaYun)",
+      "b": "2027最新官网",
+      "entity": "吃瓜云(ChiguaYun)",
+      "brand": "吃瓜云(ChiguaYun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "75a5b952349a104915bc86731b8b6fedb304d75bc3395d63a0825cf32031b76b",
+      "content": {
+        "primary_entity": "吃瓜云(ChiguaYun)",
+        "keyword1": "吃瓜云(ChiguaYun)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端，Windows 可选 Clash Verge，macOS 可选 ClashX Pro，Android 可选 ClashMetaForAndroid，iOS 可选 Shadowrocket，路由器可刷 OpenWrt 搭配 OpenClash。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量挑选合适套餐，完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松使用",
+          "AI_DESCRIPTION": "，吃瓜云(ChiguaYun)提供基础版、旗舰版与团队版三档订阅，分别覆盖 100GB、300GB 与 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版搭载 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点与企业定制路由，各档均可按年付享受优惠。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路能力三个角度挑选适合的订阅档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度浏览与基础流媒体需求。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备并配 IPLC 专线，兼顾游戏加速与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路能力差异",
+          "AI_FEATURE_TITLE_3": "团队与定制支持",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端订阅配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "吃瓜云(ChiguaYun)提供多档海外加速订阅，覆盖基础浏览、流媒体解锁与游戏专线加速等场景。基础版、旗舰版与团队版在月流量、同时在线设备数与节点能力上各有侧重，可按年付获取更优价格。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "基础版 100GB 月流量，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线，游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备数量与流量需求选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合同时在线设备数量与每月流量用量，在基础版、旗舰版与团队版中确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、线路类型与流媒体解锁范围，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅地址，按客户端文档完成代理配置后连接节点。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "吃瓜云订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "吃瓜云套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "通常支持在当前订阅周期内补差价升级至更高档位，具体升级方式与生效时间以购买后账户内说明为准，可联系支持人员协助处理。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量如何计算？",
+          "AI_FAQ_ANSWER_2": "以同一时间保持连接的不同终端数量为准。基础版 3 台、旗舰版 5 台、团队版 20 台，超出时需断开部分设备再连接新设备。",
+          "AI_FAQ_QUESTION_3": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_3": "当周期内流量用尽后，连接可能降速或暂停，可等待下个周期重置，或根据账户内提供的选项调整套餐，具体规则以订阅页面说明为准。",
+          "AI_FAQ_QUESTION_4": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "常见系统均有对应订阅客户端可选，具体兼容列表以客户端文档为准。选择时请确认设备系统版本满足客户端运行要求。",
+          "AI_FAQ_QUESTION_5": "按年付相比月付有什么优势？",
+          "AI_FAQ_ANSWER_5": "按年付总价更低。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相当于按月付费的折扣价，适合长期稳定使用的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhizhejianqiao.com",
+    "host": "zhizhejianqiao.com"
+  },
+  "file_hashes": {
+    "index.html": "8a4c67bb7128fb53cceb67832ba1cd111a0b1957a35c5bac17b1baecd78d64f8",
+    "sitemap.xml": "70cb9009db75a7156a86e99784941f626920382370a6ec49f0d8da26af299bc0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c6926948ff1ef59831ab6279aa219903e93bf660e6ccd8eb9c519cc70bdd5c12",
+    "robots.txt": "159192c9a02f1e6766e1a2d24502734f93b85398660f658a13b1728f01a4ad0e",
+    "6a181b363ffed308348a9c5adf77f636.txt": "d180509f6c05ec56f901074898fd0451a19e0e99135165999acd17d54871885b"
+  },
+  "revision": "b89651a5c0a4e1609194cdcc1162a8645445c0e4ce2b63bc396a571a1b6aab99"
+}
